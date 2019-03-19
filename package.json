@@ -1,0 +1,20 @@
+{
+  "name": "@tessaroto/security",
+  "version": "1.2.1",
+  "description": "Security Module",
+  "author": "Rafael Tessaroto",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tessaroto/security.git"
+  },
+  "dependencies": {
+    "get-keycloak-public-key": "^1.0.3",
+    "jsonwebtoken": "^8.4.0",
+    "memory-cache": "^0.2.0"
+  },
+  "files": [
+    "lib",
+    "index.js"
+  ]
+}
