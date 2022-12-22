@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "get-keycloak-public-key": "^1.0.3",
-    "jsonwebtoken": "^8.4.0",
+    "jsonwebtoken": "^9.0.0",
     "memory-cache": "^0.2.0"
   },
   "files": [
